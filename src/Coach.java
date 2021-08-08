@@ -6,7 +6,7 @@ public class Coach extends Person{
         this.role=role;
     }
     public String  displayDataCoach(){
-        return "\nName:" + name + "\nLast Name:" +lastName+ "\nAge:" +age+ "\nCI:" +CI+ "\nPhone:" +phone+ "\nRole:" +role;
+        return "Name:" + name + "\nLast Name:" +lastName+ "\nAge:" +age+ "\nCI:" +CI+ "\nPhone:" +phone+ "\nThere is Role:" +role;
     }
 
     public boolean isRole() {

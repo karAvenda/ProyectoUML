@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Tournament {
+public class Tournament {
+
 }
